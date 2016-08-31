@@ -1,3 +1,23 @@
+【网状粒子效果】的起源在下面这个项目里面
+daveboothy.github.io
+ forked from Daveboothy/daveboothy.github.io
+daveboothy.github.io/gd1.co/ 线条low poly源码
+网状粒子的其他参考：
+
+1.网状粒子效果的中国作者修改版博客解释
+http://www.cnblogs.com/axes/p/4960171.html
+2.codepen的代码片段
+http://codepen.io/dleatherman/pen/kAzgw/
+3.网聚宝首页的应用
+http://www.wangjubao.com/
+4.前端网 的一个集合，这个可以用来学习参考
+HTML5CanvasAPI
+http://www.w3cfuns.com/notes/23960/a60cf1babf6dbe3010a565a9eda6b41f.html
+HTML5CanvasAPI-续：
+http://www.w3cfuns.com/notes/23960/d043dcc50e7d96e668f0a2deb676fc29.html
+在最底部是【网状粒子效果】demo
+
+
 # canvas-test
 
 兴趣使然写的canvas小玩意<br>
